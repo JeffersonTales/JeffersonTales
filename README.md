@@ -27,9 +27,6 @@
     <img align="center" alt="OPC" src = "https://img.shields.io/badge/OPC%20UA-OPC-blue">
 </div>
 <div style ="display: inline_block">
-    <img align="center" alt="OPC" src = "https://img.shields.io/badge/OPC%20UA-OPC-blue">
-</div>
-<div style ="display: inline_block">
     <img align="center" alt="HTML" src = "https://img.shields.io/badge/HTML-orange">
     <img align="center" alt="CSS" src = "https://img.shields.io/badge/CSS-red">
     <img align="center" alt="CSS" src = "https://img.shields.io/badge/JS-yellow">
