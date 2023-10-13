@@ -3,6 +3,8 @@
 
 ### My social networks:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9fferson-tales-canalli-467242274/)
+[![GitLab](https://img.shields.io/badge/gitlab-ff5902?style=for-the-badge&logo=gitlab&logoColor=white)](git.akrsistemas.com.br/JeffersonTales)
+[![Azure](https://img.shields.io/badge/azure-0077B5?style=for-the-badge&logo=azuredevops&logoColor=white)](dev.azure.com/jeffersoncanalli)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/vYGsRjXNcv)
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jefferson.canalli@gmail.com)
 [![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/u/jeffersontales/)
@@ -20,5 +22,16 @@
 </div>
 <div style ="display: inline_block">
     <img align="center" alt="SAP" src = "https://img.shields.io/badge/Crystal Reports-SAP-blue">
+</div>
+<div style ="display: inline_block">
+    <img align="center" alt="OPC" src = "https://img.shields.io/badge/OPC%20UA-OPC-blue">
+</div>
+<div style ="display: inline_block">
+    <img align="center" alt="OPC" src = "https://img.shields.io/badge/OPC%20UA-OPC-blue">
+</div>
+<div style ="display: inline_block">
+    <img align="center" alt="HTML" src = "https://img.shields.io/badge/HTML-orange">
+    <img align="center" alt="CSS" src = "https://img.shields.io/badge/CSS-red">
+    <img align="center" alt="CSS" src = "https://img.shields.io/badge/JS-yellow">
 </div>
 
