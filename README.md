@@ -3,7 +3,6 @@
 
 ### My social networks:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9fferson-tales-canalli-467242274/)
-[![GitLab](https://img.shields.io/badge/gitlab-ff5902?style=for-the-badge&logo=gitlab&logoColor=white)](https://git.akrsistemas.com.br/JeffersonTales)
 [![Azure](https://img.shields.io/badge/azure-0077B5?style=for-the-badge&logo=azuredevops&logoColor=white)](https://dev.azure.com/jeffersoncanalli)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/vYGsRjXNcv)
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jefferson.canalli@gmail.com)
