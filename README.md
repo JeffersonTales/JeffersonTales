@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/vYGsRjXNcv)
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jefferson.canalli@gmail.com)
 
-👨‍💻 About Me
+👨‍💻 About Me:
 
 My journey in Information Technology began at the age of 14, when I started a Technical course in Informatics. Since then, I’ve developed a deep passion for technology that continues to drive me today.
 After completing my initial training, I joined the Brazilian Army, where I graduated as an Officer Cadet in the Artillery branch — an experience that strengthened my discipline, resilience, and leadership skills.
@@ -17,7 +17,8 @@ More recently, I’ve been expanding my expertise into IT Governance, aiming to 
 
 ![Jéfferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonTales&show_icons=true&theme=dark)
 
-🚀 Main Technologies & Tools I Use
+🚀 Main Technologies & Tools I Use:
+
 💻 Programming Languages & Frameworks
 <div style="display: inline_block"><img alt="C#" src="https://img.shields.io/badge/C%23-.NET-brightgreen"><img alt="VB.NET" src="https://img.shields.io/badge/VB-.NET-purple"><img alt=".NET Framework" src="https://img.shields.io/badge/.NET-Framework-blueviolet"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET-Core-darkblue"><img alt="Dart" src="https://img.shields.io/badge/Dart-Flutter-lightblue"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-Mobile-blue"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-Frontend-green"></div>
 🧠 Architecture & Design
